@@ -6,16 +6,17 @@
   Given a dataset of various people we need to train model in order to deduplicate the dataset.
   The project was made on Anaconda navigator's Spyder python IDE 3.2.6. using Anaconda package manager for all the dependecies.
 # REQUIREMENTS
-  pandas
-  scikit-learn
+  pandas,
+  scikit-learn,
   numpy
 # HOW IT WORKS
 Download the training set.
-Place the path directory in the program 
-
+Place the path of the dataset in the program for classification.
+run the program.
+after executing the program output is produced in the console
 # OUTPUT
 Output is shown in console
 # DRAWBACKS
-It is outputing inthe data in the form of the numeric values.
+Output data in the form of the numeric values.
 # FUTURE WORK
-Need to convert numerical data into string for human understanding.so,another function need to be add to the program.
+Need to convert numerical data into string or into some format for human understanding.
