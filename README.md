@@ -19,4 +19,4 @@ Output is shown in console
 # DRAWBACKS
 Output data in the form of the numeric values.
 # FUTURE WORK
-Need to convert numerical output data into string or into some format for human understanding.
+Preprocessing the input data is not completely correct. so, Input data need to preprocessing more accurately for more accurate output.Need to convert numerical output data into string or into some format for human understanding.
